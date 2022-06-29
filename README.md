@@ -1,0 +1,2 @@
+# Medical-Pharmacy
+About: It is based on managing medicines and information regarding doctors so that a patient can check for the availability. Tools &amp; Technologies: JAVA netbeans, MySQL, JDBC Roles &amp; Responsibilities:- ->Worked on the backend side ->Worked on creating queries for implementing basic CRUD operations : - adding user details to the database, fetching details from the db, updating details, removing any entry from the db.
